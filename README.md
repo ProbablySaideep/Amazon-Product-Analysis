@@ -42,6 +42,7 @@ Before visualizing, I used Pivot Tables to validate my hypothesis and aggregate 
 I exported the cleaned data to **Tableau** to build an executive-level dashboard for real-time analysis.
 
 View the live interactive dashboard here: [Amazon Sales Analysis](https://public.tableau.com/views/AmazonSalesAnalysis_17788486659930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 View My Tableau Public Profile: [Saideep Macherla - Vizzes](https://public.tableau.com/app/profile/saideep.macherla/vizzes)
 
 ### **Key Dashboard Features:**
@@ -62,9 +63,9 @@ View My Tableau Public Profile: [Saideep Macherla - Vizzes](https://public.table
 * `/data`: `cleaned_amazon_data.xlsb` (The final cleaned, 12k row dataset).
 * `/visualizations`: Dashboard screenshots.
 * `/tableau`: `.twbx` file for interactive dashboard exploration.
-
 ---
 ## Connect with me!
-If you're interested in data analytics, or just want to discuss this project, feel free to reach out!
+* If you're interested in data analytics, or just want to discuss this project, feel free to reach out!
 [LinkedIn](https://www.linkedin.com/in/saideepmacherla)
+---
 
