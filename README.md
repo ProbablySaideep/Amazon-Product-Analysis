@@ -17,12 +17,13 @@ By applying advanced data cleaning and statistical filtering, I transformed a no
 ---
 
 ## The Data Analytics Workflow (Excel & Power Query)
-The raw dataset was a 41.8k-row CSV that required significant "scrubbing" before any analysis could take place.
+The raw dataset was a 41.8k-row CSV that required significant "scrubbing" and cleaning before any analysis could take place. So this is how i went about the process:
 
 ### **Data Cleaning & Standardization:**
 1.  **Metric Formatting:** Stripped currency symbols and converted `list_price` and `discounted_price` into **Decimal** values for financial calculations.
 2.  **String Parsing:** Extracted sales volume from text strings (e.g., *"10k+ bought last month"*) and converted them into **Integer** values to allow for quantitative summing.
-3.  **Data Quality Filtering:** * Identified that many records had `0` or missing values for Price and Ratings. 
+3.  **Title Optimization (Standardization):** Many product names were excessively long (50+ characters) with redundant technical specs. I used string functions to **trim and standardize product titles**, ensuring they were concise enough for clean visualization in Tableau without losing brand identity.
+4.  **Data Quality Filtering:** * Identified that many records had `0` or missing values for Price and Ratings. 
     * **Analytical Decision:** Applied a strict filter to keep only "Feature-Complete" records. 
     * **Impact:** Reduced the dataset to **12,105 high-quality rows**. This ensured that all correlations (Price vs. Rating) are based on verified data, not "garbage" entries.
 
@@ -58,7 +59,7 @@ I exported the cleaned data to **Tableau** to build an executive-level dashboard
 
 ### 📂 Repository Structure
 * `/data`: `cleaned_amazon_data.xlsb` (The final cleaned, 12k row dataset).
-* `/visualizations`: Dashboard screenshots and cleaning process logs.
+* `/visualizations`: Dashboard screenshots.
 * `/tableau`: `.twbx` file for interactive dashboard exploration.
 
 ---
