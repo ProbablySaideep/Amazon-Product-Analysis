@@ -8,7 +8,7 @@ By applying advanced data cleaning and statistical filtering, I transformed a no
 
 ---
 
-## Analytics Tech Stack
+## Analytical Tools Used
 * **Data Transformation:** Microsoft Excel (Power Query)
 * **Statistical Analysis:** Pivot Tables & Advanced Filtering
 * **Business Intelligence:** Tableau Desktop
