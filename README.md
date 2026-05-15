@@ -60,3 +60,9 @@ I exported the cleaned data to **Tableau** to build an executive-level dashboard
 * `/data`: `cleaned_amazon_data.xlsb` (The final cleaned, 12k row dataset).
 * `/visualizations`: Dashboard screenshots and cleaning process logs.
 * `/tableau`: `.twbx` file for interactive dashboard exploration.
+
+---
+## Connect with me!
+If you're interested in data analytics, or just want to discuss this project, feel free to reach out!
+[![My LinkedIn](www.linkedin.com/in/saideepmacherla))
+
