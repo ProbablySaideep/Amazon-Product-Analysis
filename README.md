@@ -66,5 +66,5 @@ View My Tableau Public Profile: [Saideep Macherla - Vizzes](https://public.table
 ---
 ## Connect with me!
 If you're interested in data analytics, or just want to discuss this project, feel free to reach out!
-[[LinkedIn](https://www.linkedin.com/in/saideepmacherla)
+[LinkedIn](https://www.linkedin.com/in/saideepmacherla)
 
