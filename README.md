@@ -1,8 +1,8 @@
-# Amazon India Sales: Data Analytics & Business Intelligence
+# Amazon India Sales (2019): Data Analytics & Business Intelligence
 ### Transforming 42k Raw Records into 12k High-Impact Business Insights
 
 ## Project Overview
-This project involves a comprehensive **Exploratory Data Analysis (EDA)** of Amazon India product listings. The core objective was to identify the drivers behind sales performance and customer satisfaction. 
+This project involves a comprehensive **Exploratory Data Analysis (EDA)** of Amazon India product listings from 2019. I have sourced this dataset from Kaggle. The core objective was to identify the drivers behind sales performance and customer satisfaction. 
 
 By applying advanced data cleaning and statistical filtering, I transformed a noisy dataset into a high-fidelity analytical model to uncover the "True Revenue" and performance metrics of top-tier products.
 
