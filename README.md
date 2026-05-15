@@ -25,7 +25,9 @@ The raw dataset was a 41.8k-row CSV that required significant "scrubbing" and cl
 3.  **Title Optimization (Standardization):** Many product names were excessively long (50+ characters) with redundant technical specs. I used string functions to **trim and standardize product titles**, ensuring they were concise enough for clean visualization in Tableau without losing brand identity.
 4.  **Data Quality Filtering:** * Identified that many records had `0` or missing values for Price and Ratings. 
     * **Analytical Decision:** Applied a strict filter to keep only "Feature-Complete" records. 
-    * **Impact:** Reduced the dataset to **12,105 high-quality rows**. This ensured that all correlations (Price vs. Rating) are based on verified data, not "garbage" entries.
+    * **Impact:** Reduced the dataset to **12,105 high-quality rows**. This ensured that all correlations (Price vs. Rating) are based on verified data, not "garbage" entries. 
+    ## Why?
+    The reason I did this is for easier and better analysis in Tableau where there aren't inconsistencies like the 'listed_price' columns having missing values, I removed those rows because for my case, my main analysis revolves around key features like price, if the price isn't even listed, it defeats the purpose of doing the analysis. Hence why the rows got cut down to high quality 12k rows.
 
 ---
 
