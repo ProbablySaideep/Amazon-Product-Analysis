@@ -64,5 +64,5 @@ I exported the cleaned data to **Tableau** to build an executive-level dashboard
 ---
 ## Connect with me!
 If you're interested in data analytics, or just want to discuss this project, feel free to reach out!
-[![My LinkedIn](www.linkedin.com/in/saideepmacherla))
+[![Link to my LinkedIn](www.linkedin.com/in/saideepmacherla))
 
