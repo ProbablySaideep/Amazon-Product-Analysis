@@ -63,10 +63,9 @@ View My Tableau Public Profile: [Saideep Macherla - Vizzes](https://public.table
 * `/data`: `cleaned_amazon_data.xlsb` (The final cleaned, 12k row dataset).
 * `/visualizations`: Dashboard screenshots.
 * `/tableau`: `.twbx` file for interactive dashboard exploration.
-  
-## Connect with me!
-* If you're interested in data analytics, or just want to discuss this project, feel free to reach out!
-[LinkedIn](https://www.linkedin.com/in/saideepmacherla).
 
+## Connect with me!
+* If you're interested in data analytics, or just want to discuss this project, please feel free to reach out!
+[LinkedIn](https://www.linkedin.com/in/saideepmacherla).
 ---
 
