@@ -57,7 +57,7 @@ I exported the cleaned data to **Tableau** to build an executive-level dashboard
 ## Why This Project Stands Out 
 * **Quality-Driven Analysis:** I prioritized **Data Integrity** over volume. By trimming the data to a 12k "Gold Standard" sample, I eliminated bias from missing values.
 * **End-to-End Analytics Lifecycle:** I demonstrated the full cycle: **Data Sourcing → Cleaning (Power Query) → Exploratory Analysis (Pivots) → Visual Storytelling (Tableau).**
-* **Business Value Focus:** Rather than just "cleaning data," I focused on a business outcome: calculating **True Revenue** and comparing **Market Performance** which you can take a look inside the dashboard.
+* **Business Value Focus:** Rather than just "cleaning data", I focused on a business outcome: calculating **True Revenue** and comparing **Market Performance** which you can take a look inside the dashboard.
 
 ---
 
