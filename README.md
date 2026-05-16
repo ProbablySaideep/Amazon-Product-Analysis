@@ -34,7 +34,7 @@ The raw dataset was a 41.8k-row CSV that required significant "scrubbing" and cl
 ## Business Intelligence & Pivot Analysis
 Before visualizing, I used Pivot Tables to validate my hypothesis and aggregate key performance indicators (KPIs):
 
-* **Revenue Modeling:** Calculated the **True Revenue** of the refined 12k dataset, which amounts to a massive **₹80.2 Crores** based on the items bought in the previous month (unclear about the month as it wasn't stated in the kaggle discription, one of the months in the year 2019).
+* **Revenue Modeling:** Calculated the **True Revenue** of the refined 12k dataset, which amounts to a massive **₹80.2 Crores** based on the items bought in the previous month (unclear about the month as it wasn't stated in the kaggle description, one of the months in the year 2019).
 * **Organic vs. Sponsored Analysis:** Compared the **Average Ratings** of sponsored products against organic ones across different sales volume tiers.
 * **Price Tier Segmentation:** Bucketized products by price range (from budget to premium) to observe how customer sentiment shifts as price increases.
 
