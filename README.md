@@ -23,7 +23,7 @@ The raw dataset was a 41.8k-row CSV that required significant "scrubbing" and cl
 1.  **Metric Formatting:** Stripped currency symbols and converted `list_price` and `discounted_price` into **Decimal** values for financial calculations.
 2.  **String Parsing:** Extracted sales volume from text strings (e.g., *"10k+ bought last month"*) and converted them into **Integer** values to allow for quantitative summing.
 3.  **Title Optimization (Standardization):** Many product names were excessively long (50+ characters) with redundant technical specs. I used string functions to **trim and standardize product titles**, ensuring they were concise enough for clean visualization in Tableau without losing brand identity.
-4.  **Data Quality Filtering:** * Identified that many records had `0` or missing values for Price and Ratings. 
+4.  **Data Quality Filtering:** Identified that many records had `0` or missing values for Price and Ratings. 
     * **Analytical Decision:** Applied a strict filter to keep only "Feature-Complete" records. 
     * **Impact:** Reduced the dataset to **12,105 high-quality rows**. This ensured that all correlations (Price vs. Rating) are based on verified data, not "garbage" entries. 
     ## Why drop down from 42k rows to just 12k?
